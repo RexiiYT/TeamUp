@@ -1,4 +1,4 @@
-![Iteaming up]([https://cdn.modrinth.com/data/cached_images/ccc684ecca3a576e90006bd4b224806d6d6b09da.png](https://cdn.modrinth.com/data/cached_images/d2ba0c18045c854e5d03fcb5e62ef5e2d4e5cd7f_0.webp))
+![team up](https://cdn.modrinth.com/data/cached_images/d2ba0c18045c854e5d03fcb5e62ef5e2d4e5cd7f_0.webp)
 ## About Modpack
 This modpack is designed for players who want the best possible Minecraft experience without changing the original vanilla feeling.
 ## Features
