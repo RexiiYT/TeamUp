@@ -1,9 +1,7 @@
 ![team up](https://cdn.modrinth.com/data/cached_images/d2ba0c18045c854e5d03fcb5e62ef5e2d4e5cd7f_0.webp)
-## About Modpack
-This modpack is designed for players who want the best possible Minecraft experience without changing the original vanilla feeling.
+## About App
+This modpack is designed for Teams and Organizations to talk and jojn voices all for free.
 ## Features
-It focuses on performance, visual clarity, stability, and smooth gameplay—all without adding new items, new blocks, or altering the lore of the game.
+It focuses on performance and smooth talking environment.
 ## Where should you use it?
-Perfect for survival worlds, SMP servers, and players who want Minecraft to look and run better with zero complications.
-
-[![Discord](https://img.shields.io/discord/1032196078621171763?label=DISCORD&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/QNcTpZ4x)
+Perfect for chating or taking with friends or talkin with your team.
