@@ -4,4 +4,4 @@ This app is designed for Teams and Organizations to talk and jojn voices all for
 ## Features
 It focuses on performance and smooth talking environment.
 ## Where should you use it?
-Perfect for chating or taking with friends or talkin with your team.
+Perfect for chating or talking with friends or talking with your team.
